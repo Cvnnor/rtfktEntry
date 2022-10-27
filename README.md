@@ -1,6 +1,6 @@
 # rtfktEntry
 
-# First Steps:
+# Guide:
 - Install python 3.7+ and ensure that PIP is installed along side it.
 - Once installed open cmd and do ```cd C:/YOURDIRECTORY```
 - Then do ```pip install requirements.txt``` and wait for the modules to install.
