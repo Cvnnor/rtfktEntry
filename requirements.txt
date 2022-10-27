@@ -1,0 +1,4 @@
+cloudscraper==1.2.60
+discord_webhook==0.11.0
+eth_account==0.5.7
+web3==5.27.0
